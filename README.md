@@ -7,3 +7,9 @@ Objectives
 clearer image. millets along with their recipes.
 2. To Correct the dominant blue/green color cast caused by light scattering and restore a more accurate and balanced color representation of the
 underwater environment.
+
+
+![Screenshot 2024-06-14 095530](https://github.com/user-attachments/assets/7a5ff04b-21b6-43bc-866c-2b5090b0421a)
+
+![Screenshot 2024-06-19 144340](https://github.com/user-attachments/assets/4fb6affb-93da-45bd-9beb-81f18a6668c5)
+
