@@ -46,7 +46,7 @@ This project focuses on restoring underwater images using a Generative Adversari
 
 ### 📽️ Demo Video
 
-[![Watch the demo]( https://drive.google.com/drive/folders/1vDQxhgS__UYpDrCnZim67fpTNs5V7YqE?usp=drive_link)
+[Watch the demo]( https://drive.google.com/drive/folders/1vDQxhgS__UYpDrCnZim67fpTNs5V7YqE?usp=drive_link)
 
 
 ![Screenshot 2024-06-14 095530](https://github.com/user-attachments/assets/7a5ff04b-21b6-43bc-866c-2b5090b0421a)
