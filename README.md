@@ -44,7 +44,7 @@ This project focuses on restoring underwater images using a Generative Adversari
 
 ---
 
-### ML Trained Model
+### Download Our UWIR Model
 
 [Download model]( https://drive.google.com/drive/folders/1vDQxhgS__UYpDrCnZim67fpTNs5V7YqE?usp=drive_link)
 
